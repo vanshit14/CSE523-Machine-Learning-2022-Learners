@@ -2,11 +2,11 @@ Heart disease is more common than ever. In order to ensure that more people may 
 
 This project involves proper data processing and analysis of the patient dataset for heart disease. Following that, many models were trained, and various methods were used to make predictions like KNN, Decision Tree, Random Forest, SVM, and Logistic Regression etc. 
 Machine Learning algorithms used:
-1.	Logistic Regression (Scikit-learn)
-2.	Naive Bayes (Scikit-learn)
-3.	Support Vector Machine (Linear) (Scikit-learn)
-4.	K-Nearest Neighbours (Scikit-learn)
-5.	Decision Tree (Scikit-learn)
-6.	Random Forest (Scikit-learn)
+1.	Logistic Regression 
+2.	Naive Bayes 
+3.	Support Vector Machine 
+4.	K-Nearest Neighbours 
+5.	Decision Tree 
+6.	Random Forest 
 
 Accuracy achieved: 88.52% (Random Forest)
